@@ -6,7 +6,7 @@ html {
 body{
 background-size: 100%;
 background-image: url(https://thoughtcatalog.files.wordpress.com/2018/03/bady-qb-42758-unsplash.jpg);
-font-family: Arial, Sans-Serif;
+font-family: "Palatino Linotype", Courier;
 }
 
 #hd{
@@ -60,5 +60,9 @@ text-decoration: none;
 width: 100%;
 height: 50px;
 margin-top: 5px;
+align: center;
+}
+.hList ul{
+display: inline;
 }
 
