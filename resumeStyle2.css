@@ -62,27 +62,3 @@ height: 50px;
 margin-top: 5px;
 }
 
-
-
-
-#main{
-font-size: 14pt; 
-width: 60%;
-height: 100%;
-float:left
-}
-
-#rnav{
-background-color: white;
-width: 20%;
-height: 100%;
-float: right;
-}
-
-.rnav a{
-text-decoration: none;
-}
-
-.rnav a:hover{
-  color: #f1f1f1;
-}
